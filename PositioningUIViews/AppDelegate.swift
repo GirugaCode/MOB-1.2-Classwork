@@ -21,9 +21,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 //        let firstChallenge = CodeUIController()
 //        let secondChallenge = CodeUIControllerTwo()
-        let thirdChallenge = CodeUIControllerThree()
+//        let thirdChallenge = CodeUIControllerThree()
+        let fourthChallenge = CodeUIControllerFour()
         
-        window?.rootViewController = thirdChallenge
+        window?.rootViewController = fourthChallenge
         return true
     }
 
